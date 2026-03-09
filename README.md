@@ -77,3 +77,9 @@ Use larger and more recent rainfall datasets.
 Add weather variables such as temperature, humidity, and pressure.
 
 Build a web dashboard for rainfall prediction.
+
+👤 Author
+Rafiul Awal Nafi
+Data Analytics & Machine Learning Enthusiast  
+GitHub: https://github.com/NafiScripts
+
